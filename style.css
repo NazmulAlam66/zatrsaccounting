@@ -1,0 +1,89 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .bg-title{
+            background-color: #F37020;
+        }
+        .bg-header{
+            background-color: #0c1f36;
+            color: white;
+        }
+        .iconSize{
+            font-size:larger;
+        }
+        .slide{
+            width: 100%;
+            height: 500px;
+            transition-property: width;
+            transition-duration: 2ms;
+        }
+        .slide:hover{
+
+            width: 120%;
+        }
+        .text-allign{
+            box-sizing: border-box;
+            text-align: justify;
+        }
+
+        .cardBg{
+            background-color: #0C1F36;
+        }
+        .globalTitle{
+            color: #F57E20;
+        }
+        .cardText{
+            color: white;
+        }
+        .space{
+            height: 10px;
+            background-color: white;
+        }
+        .zatPart{
+            height: 80px;
+            width: 80px;
+        }
+        .zatPartMid{
+            height: 113px;
+            width: 220px;
+        }
+        .boxSize{
+            box-sizing: content-box;
+        }
+        .clientImg{
+            height:110px;
+            width: 125px;
+        }
+        .rad{
+            border-bottom-left-radius:30%;
+            border-top-right-radius: 30% ;
+        }
+        .footerLogo{
+            width: 80px;
+            height: 30px;
+        }
+        .footerFont{
+            font-size: 14px;
+        }
+        .cookiesFont{
+            font-size:15px;
+            color: white;
+        }
+
+        .footerStyle{
+            height: 665px;
+            width: 1492px;
+        }
+        .headerLogo{
+            width: 150px;
+            height: 50px;
+        }
+        .zatPartTop{
+            width: 45px;
+            height: 25px;
+        }
+        .zatPartMidTop{
+            height: 30px;
+            width: 30px;
+        }
